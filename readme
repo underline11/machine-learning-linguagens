@@ -17,8 +17,3 @@ Os dados utilizados estão no arquivo `trend_over_time.csv`, que contém a popul
 - **`README.md`**: Este arquivo.
 - **`.gitignore`**: Arquivo para listar arquivos e diretórios a serem ignorados pelo Git.
 
-## Como Executar
-
-1. **Clonar o Repositório**
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
